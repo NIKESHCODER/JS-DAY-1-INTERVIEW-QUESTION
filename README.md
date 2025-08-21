@@ -1,5 +1,5 @@
-****# JS-DAY-1-INTERVIEW-QUESTION
-1. Difference between == and ===
+# JS-DAY-1-INTERVIEW-QUESTION
+**1. Difference between == and ===
 
 == → Loose Equality
 It only checks values, not types. It tries to convert (typecast) before comparing.
@@ -147,4 +147,4 @@ function outer() {
   }
   inner();
 }
-outer();****
+outer();**
